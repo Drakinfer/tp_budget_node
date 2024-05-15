@@ -1,0 +1,19 @@
+{
+  "name": "budgets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.14.0",
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "prisma": "^5.14.0"
+  }
+}
